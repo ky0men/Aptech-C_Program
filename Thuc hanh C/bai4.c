@@ -9,6 +9,4 @@ int main(){
     printf("Hay nhap so nguyen thu ba: ");
     scanf("%d", &c);
     int max = a;
-    max < b ? max = b : max = a;
-    max < c ? max = c : max = b;
 }

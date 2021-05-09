@@ -31,5 +31,6 @@ int main(){
         printf("DONG\n");
         break;
     }
+    
     return 0;
 }
